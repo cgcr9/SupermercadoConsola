@@ -1,8 +1,5 @@
-Elaborado por Cristina Guadalupe Che Requena
-Email: cristina.che.requena@gmail.com
-
-# SupermercadoConsola
-Programa que carga una lista de productos de supermercado. Se filtran productos menores a $25 y obtiene el producto más caro y más barato. No se ingresa nigun producto a traves de la consola. La salida es como se muestra a continuacion
+SupermercadoConsola
+Programa elaborado en java que carga una lista de productos de supermercado. Se filtran productos menores a $25 y obtiene el producto más caro y más barato. No se ingresa nigun producto a traves de la consola. La salida es como se muestra a continuacion:
 
 ================================
 
